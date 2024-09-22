@@ -8,8 +8,8 @@ Depth-First Iterative Deepening (DFID)
 
 # Code Structure
 ## Helper Functions
-### Makepairs(NewNode, NodePair)
-  Purpose: This function creates pairs of the current node with its parent node. 
+### Makepairs(NewNode, NodePair) 
+  Purpose: This function creates pairs of the current node with its parent node. <br/>
   Arguments:
            NewNode: List of new nodes generated after moving the blank tile.
            NodePair: The current node that acts as the parent of the new nodes.
