@@ -1,10 +1,10 @@
 8-Puzzle Problem Solving Using BFS, DFS, and DFID
 This code solves an 8-puzzle problem using three search algorithms:
 
-Breadth-First Search (BFS)
-Depth-First Search (DFS)
-Depth-First Iterative Deepening (DFID)
-  The problem involves moving the blank tile (represented by the number 9) in a 3x3 grid to reach a goal configuration. The algorithms generate new puzzle states     by moving the blank tile in four possible directions (up, down, left, and right) and search for the goal state.
+Breadth-First Search (BFS) <br/>
+Depth-First Search (DFS) <br/>
+Depth-First Iterative Deepening (DFID)<br/>
+  The problem involves moving the blank tile (represented by the number 9) in a 3x3 grid to reach a goal configuration. The algorithms generate new puzzle states     by moving the blank tile in four possible directions (up, down, left, and right) and search for the goal state.<br/>
 
 # Code Structure
 ## Helper Functions
